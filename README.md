@@ -10,7 +10,7 @@
 
 This project was born from a desire to better understand the data analyst job market — what pays well, what skills are most valued, and where to focus learning efforts for maximum career impact.
 
-Data is sourced from [Luke Barousse's SQL Course](https://youtu.be/7mz73uXD9DA?si=ppnVm-HJi70YCJFz), covering job postings from December 2022 to December 2023. It includes details on job titles, salaries, locations, and required skills.
+Data is sourced from [Luke Barousse](https://github.com/lukebarousse) of his excellent [SQL Course YT video](https://youtu.be/7mz73uXD9DA?si=ppnVm-HJi70YCJFz), covering job postings from December 2022 to December 2023. It includes details on job titles, salaries, locations, and required skills.
 
 ### The questions I wanted to answer through my SQL queries:
 
